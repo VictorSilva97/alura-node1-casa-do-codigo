@@ -1,0 +1,20 @@
+{
+  "name": "alura-node1-casa-do-codigo",
+  "version": "1.0.0",
+  "description": "Livraria Casa do Código",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Victor Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.3",
+    "marko": "4.13.4-1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  }
+}

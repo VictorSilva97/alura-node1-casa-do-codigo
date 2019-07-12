@@ -1,0 +1,11 @@
+npm init -y
+
+npm install express@4.16.3 --save-exact
+
+npm install nodemon@1.18.4 --save-dev --save-exact =============> nodemon server.js
+
+npm install -g nodemon@1.18.4 --save-exact
+
+npm install marko@4.13.4-1 --save-exact
+
+https://nodejs.org/api/
