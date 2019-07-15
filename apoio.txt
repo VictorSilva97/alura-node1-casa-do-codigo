@@ -9,3 +9,19 @@ npm install -g nodemon@1.18.4 --save-exact
 npm install marko@4.13.4-1 --save-exact
 
 https://nodejs.org/api/
+
+npm install sqlite3@4.0.2 --save-exact
+
+npm install body-parser@1.18.3 --save-exact
+
+http://expressjs.com/pt-br/guide/using-middleware.html
+
+https://markojs.com/docs/getting-started/
+
+https://developer.mozilla.org/pt-BR/docs/Web/API/HTMLElement/dataset
+
+https://developer.mozilla.org/pt-BR/docs/Web/Guide/HTML/Using_data_attributes
+
+https://github.com/mapbox/node-sqlite3/wiki/API#database
+
+npm install method-override@3.0.0 --save-exact
